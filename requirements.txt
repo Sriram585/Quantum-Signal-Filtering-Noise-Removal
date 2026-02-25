@@ -1,0 +1,10 @@
+# Core Quantum Library
+pennylane==0.35.1
+
+# Scientific Computing & Array Manipulation
+numpy==1.26.4
+scipy==1.12.0
+
+# Visualization & Notebook Environment
+matplotlib==3.8.3
+ipykernel
